@@ -1,4 +1,4 @@
-# Vite + React
+# Vite + React + Vitest
 
 This is a [Vite](https://vitejs.dev) project together with React.
 
